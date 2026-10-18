@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**LuizFelipeBezerra/LuizFelipeBezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# LUIZ FELIPE BEZERRA
+### BACKEND DEVELOPER & ENGINEER
 
-Here are some ideas to get you started:
+<p><code>SISTEMAS DE INFORMAÇÃO @ UNILASALLE</code> • <code>CLEAN CODE</code> • <code>DATABASE MODELING</code></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/ORACLE-000000?style=for-the-badge&logo=oracle&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=00FF66" />
+</p>
+
+</div>
+
+---
+
+### ✳ SYSTEM.INFO
+
+```text
+[ PROFILE ] : Luiz Felipe Bezerra
+[ DEGREE  ] : Sistemas de Informação (Unilasalle)
+[ FOCUS   ] : Engenharia de Backend & Arquitetura de Banco de Dados
+[ SPECS   ] : Modelagem Relacional (DER / Lógico / Físico), SQL, Algoritmos, Clean Code
