@@ -3,7 +3,7 @@
 # LUIZ FELIPE BEZERRA
 ### BACKEND DEVELOPER & ANALISTA DE DADOS
 
-<p><code>SISTEMAS DE INFORMAÇÃO @ UNILASALLE</code> • <code>CLEAN CODE</code> • <code>DATABASE MODELING</code></p>
+<p><code>SISTEMAS DE INFORMAÇÃO @ UNILASALLE</code> • <code>DATABASE MODELING</code> • <code>SOFTWARE ARCHITECTURE</code></p>
 
 ---
 
@@ -27,4 +27,4 @@
 [ PROFILE ] : Luiz Felipe Bezerra
 [ DEGREE  ] : Sistemas de Informação (Unilasalle)
 [ ROLE    ] : Backend Developer | Analista de Dados
-[ SPECS   ] : Modelagem Relacional (DER / Lógico / Físico), SQL, Algoritmos, Clean Code
+[ SPECS   ] : Modelagem Relacional (DER / Lógico / Físico), SQL, Algoritmos
